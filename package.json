@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-task-burgeon",
+  "version": "1.0.0",
+  "description": "task for burgeon nodejs dev",
+  "main": "server.js",
+  "repository": "https://github.com/shresthaoshan/nodejs-task-burgeon.git",
+  "author": "shresthaoshan <os02411418@student.ku.edu.np>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.5"
+  }
+}
