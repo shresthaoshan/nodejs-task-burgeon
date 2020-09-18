@@ -17,9 +17,3 @@ MONGO_DATABASE=
 `SERIALIZER` is used to generate tokens.
 `RESERIALIZER` is meant to be used to refresh the tokens, but, currently, is not in use.
 `MONGO_USER`, `MONGO_PASSWORD`, `MONGO_DATABASE` are for database connection.
-
----
-
-## Note
-
-`Login` route responds with token attached to the header of reponse object.
